@@ -31,7 +31,7 @@
 #include <sys/mman.h>
 #include <stdlib.h>
 #include <cutils/log.h>
-#include <linux/ashmem.h>
+#include </home/Lloir/UJ/device/htc/msm7x30-common/include/linux/ashmem.h>
 #include <cutils/ashmem.h>
 #include <errno.h>
 #include "ashmemalloc.h"

@@ -35,8 +35,8 @@
 * namespace mdpwrap = overlay::mdp_wrapper;
 * */
 
-#include <linux/msm_mdp.h>
-#include <linux/msm_rotator.h>
+#include </home/Lloir/UJ/device/htc/msm7x30-common/include/linux/msm_mdp.h>
+#include </home/Lloir/UJ/device/htc/msm7x30-common/include/linux/msm_rotator.h>
 #include <sys/ioctl.h>
 #include <utils/Log.h>
 #include <errno.h>

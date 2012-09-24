@@ -30,7 +30,7 @@
 #include <cutils/log.h>
 #include <cutils/native_handle.h>
 #include <gralloc_priv.h>
-#include <linux/genlock.h>
+#include </home/Lloir/UJ/device/htc/msm7x30-common/include/linux/genlock.h>
 #include <fcntl.h>
 #include <sys/ioctl.h>
 
